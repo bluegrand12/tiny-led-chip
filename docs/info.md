@@ -14,19 +14,13 @@ This project uses basic logic gates (AND and NOT) to show how digital signals in
 ## How to test
 
 OUT0 turns ON only when both IN0 and RST_N are active (AND gate).
-
 OUT1 turns ON only when both IN1 and IN0 are active (AND gate).
-
 OUT2 shows the opposite signal of IN2 (NOT gate).
-
 OUT3 shows the opposite signal of IN3 (NOT gate).
-
 OUT4–OUT7 directly follow IN4–IN7 without changes.
 
 ## External hardware
 
 Reset button
-
 8-position DIP switch (for inputs)
-
 LED indicators (for outputs)
